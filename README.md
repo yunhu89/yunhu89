@@ -31,9 +31,10 @@
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
 
-   <a href="https://instagram.com/Hu.dev_">    
-    <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/Hu.dev_/" />
-  
+  <a href="https://instagram.com/Hu.dev_">
+    <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/Hu.dev_/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
   <a href="https://www.linkedin.com/in/윤후-김-24a38132a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
